@@ -3,7 +3,7 @@ Go Fish
 
 ## Overview
 
-![Go Fish main](https://github.com/Cabrra/cabrra.github.io/blob/master/Images/GoFish/GoFish1.png)
+![Go Fish main](https://github.com/Cabrra/cabrra.github.io/raw/master/Images/GoFish/GoFish1.png)
 
 [rules](https://www.pagat.com/invented/gofish_vars.html)
 
@@ -24,7 +24,7 @@ Use arrow keys to move the cursor and enter to select an option
 + Added sound via wav file
 + Highscores file
 + Hand sorting by number and suit
-+ •	ASCII cards (horizontal layout)
++ â€¢	ASCII cards (horizontal layout)
 + Win/Lose/Draw screens with color animations
 
 + Achievements: 
@@ -43,7 +43,7 @@ Use arrow keys to move the cursor and enter to select an option
 	+ Instantly lose === XYZ
 	+ Easter egg === MIL (Like the first wolfestein)  
 
-![Go Fish](https://github.com/Cabrra/cabrra.github.io/blob/master/Images/GoFish/GoFish2.png)
+![Go Fish](https://github.com/Cabrra/cabrra.github.io/raw/master/Images/GoFish/GoFish2.png)
 
 ## Built With
 
