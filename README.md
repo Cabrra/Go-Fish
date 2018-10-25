@@ -3,7 +3,7 @@ Go Fish
 
 ## Overview
 
-![Go Fish main](https://raw.githubusercontent.com/Cabrra/cabrra.github.io/master/Images/GoFish/GoFish1.png?token=AI_RbUEdPl1D-Y30Je5vMjkptbD_t3Jcks5bo4M_wA%3D%3D)
+![Go Fish main](/Images/GoFish1.png)
 
 [rules](https://www.pagat.com/invented/gofish_vars.html)
 
@@ -43,7 +43,7 @@ Use arrow keys to move the cursor and enter to select an option
 	+ Instantly lose === XYZ
 	+ Easter egg === MIL (Like the first wolfestein)  
 
-![Go Fish](https://raw.githubusercontent.com/Cabrra/cabrra.github.io/master/Images/GoFish/GoFish2.png?token=AI_RbdBenH21UFW8nomGfGMD7_ppL0Cuks5bo4NCwA%3D%3D)
+![Go Fish](/Images/GoFish2.png)
 
 ## Built With
 
